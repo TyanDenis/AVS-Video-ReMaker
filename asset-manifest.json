@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/AVS-Video-ReMaker/static/css/main.3f5b4b00.css",
+    "main.js": "/AVS-Video-ReMaker/static/js/main.5fd020e6.js",
+    "static/media/banner-img.png": "/AVS-Video-ReMaker/static/media/banner-img.e143354c792c0e5d4116.png",
+    "static/media/Roboto-Black.woff": "/AVS-Video-ReMaker/static/media/Roboto-Black.4ffaa04ba4740c3beaa9.woff",
+    "static/media/Roboto-Medium.woff": "/AVS-Video-ReMaker/static/media/Roboto-Medium.d1c9c8adf7583742ebe6.woff",
+    "static/media/Roboto-Bold.woff": "/AVS-Video-ReMaker/static/media/Roboto-Bold.ed94af9a23ec3e7c9a30.woff",
+    "static/media/Roboto-Regular.woff": "/AVS-Video-ReMaker/static/media/Roboto-Regular.b4f3b86c30821cbb6de6.woff",
+    "static/media/OpenSans-Regular.woff": "/AVS-Video-ReMaker/static/media/OpenSans-Regular.7957dcbdbde1e58a8878.woff",
+    "static/media/OpenSans-SemiBold.woff": "/AVS-Video-ReMaker/static/media/OpenSans-SemiBold.2cb570b5edbe9892d6ef.woff",
+    "static/media/OpenSans-Bold.woff": "/AVS-Video-ReMaker/static/media/OpenSans-Bold.3c7714c4641b2d9c90cf.woff",
+    "static/media/Roboto-Medium.woff2": "/AVS-Video-ReMaker/static/media/Roboto-Medium.f87628d285827a997b3a.woff2",
+    "static/media/Roboto-Black.woff2": "/AVS-Video-ReMaker/static/media/Roboto-Black.107984e245480c7346f7.woff2",
+    "static/media/Roboto-Bold.woff2": "/AVS-Video-ReMaker/static/media/Roboto-Bold.379c54a48f8909572cb6.woff2",
+    "static/media/Roboto-Regular.woff2": "/AVS-Video-ReMaker/static/media/Roboto-Regular.66c10e61abb07a13d665.woff2",
+    "static/media/OpenSans-SemiBold.woff2": "/AVS-Video-ReMaker/static/media/OpenSans-SemiBold.1ea5a03d88da3b9fdf9e.woff2",
+    "static/media/OpenSans-Regular.woff2": "/AVS-Video-ReMaker/static/media/OpenSans-Regular.1c885107d25330cfe9f6.woff2",
+    "static/media/OpenSans-Bold.woff2": "/AVS-Video-ReMaker/static/media/OpenSans-Bold.5b47b2c16830283eb9df.woff2",
+    "static/media/logo.svg": "/AVS-Video-ReMaker/static/media/logo.3d71b1cb9c6f0f405a0d17b98422333e.svg",
+    "static/media/help-item-1.svg": "/AVS-Video-ReMaker/static/media/help-item-1.ca9516a9854bac0d0d8ffc88f61ac926.svg",
+    "index.html": "/AVS-Video-ReMaker/index.html",
+    "main.3f5b4b00.css.map": "/AVS-Video-ReMaker/static/css/main.3f5b4b00.css.map",
+    "main.5fd020e6.js.map": "/AVS-Video-ReMaker/static/js/main.5fd020e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f5b4b00.css",
+    "static/js/main.5fd020e6.js"
+  ]
+}
