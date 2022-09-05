@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AVS-Video-ReMaker/static/css/main.3f5b4b00.css",
-    "main.js": "/AVS-Video-ReMaker/static/js/main.0a2c5d60.js",
+    "main.js": "/AVS-Video-ReMaker/static/js/main.9b82da64.js",
     "static/media/banner-img.png": "/AVS-Video-ReMaker/static/media/banner-img.e143354c792c0e5d4116.png",
     "static/media/Roboto-Black.woff": "/AVS-Video-ReMaker/static/media/Roboto-Black.4ffaa04ba4740c3beaa9.woff",
     "static/media/Roboto-Medium.woff": "/AVS-Video-ReMaker/static/media/Roboto-Medium.d1c9c8adf7583742ebe6.woff",
@@ -21,10 +21,10 @@
     "static/media/help-item-1.svg": "/AVS-Video-ReMaker/static/media/help-item-1.ca9516a9854bac0d0d8ffc88f61ac926.svg",
     "index.html": "/AVS-Video-ReMaker/index.html",
     "main.3f5b4b00.css.map": "/AVS-Video-ReMaker/static/css/main.3f5b4b00.css.map",
-    "main.0a2c5d60.js.map": "/AVS-Video-ReMaker/static/js/main.0a2c5d60.js.map"
+    "main.9b82da64.js.map": "/AVS-Video-ReMaker/static/js/main.9b82da64.js.map"
   },
   "entrypoints": [
     "static/css/main.3f5b4b00.css",
-    "static/js/main.0a2c5d60.js"
+    "static/js/main.9b82da64.js"
   ]
 }
