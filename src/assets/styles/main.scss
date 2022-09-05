@@ -1,0 +1,17 @@
+@import "./variables";
+
+body {
+  word-break: break-word;
+  color: $primary-color;
+  font: $p-3-font;
+}
+
+.has-error {
+  border-color: $red-color;
+}
+
+.help-block-error {
+  margin-top: 6px;
+  font: $p-4-font;
+  color: $red-color;
+}

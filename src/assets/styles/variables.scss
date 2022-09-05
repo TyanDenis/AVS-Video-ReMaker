@@ -1,0 +1,40 @@
+// Fonts
+$OpenSans-font: "OpenSans", sans-serif;
+$Roboto-font: "OpenSans", sans-serif;
+
+$h1-large-font: 900 54px / 63px $OpenSans-font;
+$h1-large-2-font: 900 50px / 59px $OpenSans-font;
+$h1-large-3-font: 900 29px / 34px $OpenSans-font;
+$h1-font: 700 37px / 35px $OpenSans-font;
+$h1-mobile-font: 700 25px / 31px $OpenSans-font;
+$h2-font: 700 24px / 18px $OpenSans-font;
+$h3-font: 700 15px / 18px $OpenSans-font;
+$subtitle-1-font: 600 17px / 23px $OpenSans-font;
+$subtitle-2-font: 600 16px / 22px $OpenSans-font;
+$subtitle-3-font: 600 15px / 20px $OpenSans-font;
+$button-font: 500 18px / 21px $Roboto-font;
+$p-font: 400 18px / 18px $Roboto-font;
+$p-2-font: 400 15px / 22px $OpenSans-font;
+$p-3-font: 400 14px / 22px $OpenSans-font;
+$p-4-font: 400 14px / 18px $Roboto-font;
+$p-5-font: 400 14px / 20px $OpenSans-font;
+
+// Colors
+$white-color: #ffffff;
+$primary-color: #181c47;
+$primary-2-color: #241c15;
+$primary-3-color: #000000;
+$accent-color: #fe9235;
+$accent-2-color: #ffab62;
+$secondary-color: #f8ceca;
+$secondary-2-color: #fee9e7;
+$secondary-3-color: #dadada;
+$secondary-4-color: #c1c1c1;
+$input-color: rgba(36, 28, 21, 0.3);
+$input-2-color: rgba(254, 146, 53, 0.2);
+$red-color: #f95847;
+
+// Media queries
+$large-tablet: 1087px;
+$large-mobile: 735px;
+$mobile: 520px;

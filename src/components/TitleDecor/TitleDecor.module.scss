@@ -1,0 +1,25 @@
+@import "../../assets/styles/variables";
+
+.title {
+  display: block;
+  font: $h1-large-font;
+
+  .text-decor {
+    display: block;
+
+    span {
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: bottom;
+    }
+  }
+
+  @media (max-width: $large-tablet) {
+    display: block;
+    font: $h1-large-2-font;
+  }
+
+  @media (max-width: $large-mobile) {
+    font: $h1-large-3-font;
+  }
+}

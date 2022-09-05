@@ -1,0 +1,60 @@
+@import "../../assets/styles/variables";
+
+.checkbox {
+  position: relative;
+  display: flex;
+  cursor: pointer;
+
+  input {
+    position: absolute;
+    overflow: hidden;
+    width: 1px;
+    height: 1px;
+    clip: rect(0 0 0 0);
+
+    &:checked {
+      ~ .icon {
+        svg {
+          opacity: 1;
+          visibility: visible;
+        }
+      }
+    }
+  }
+
+  &:hover {
+    .icon {
+      border-color: $accent-color;
+    }
+  }
+}
+
+.icon {
+  margin-top: 2px;
+  width: 20px;
+  height: 20px;
+  min-width: 20px;
+  display: flex;
+  border: 1px solid $secondary-4-color;
+  border-radius: 1px;
+  transition: border-color 0.3s, background-color 0.3s;
+
+  svg {
+    position: absolute;
+    top: 2px;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s;
+  }
+}
+
+.text {
+  padding-left: 15px;
+  font: $p-3-font;
+  color: $primary-2-color;
+
+  @media (max-width: $mobile) {
+    font: $p-5-font;
+  }
+}

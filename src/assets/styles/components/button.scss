@@ -1,0 +1,21 @@
+@import "../variables";
+
+.button {
+  display: flex;
+  justify-content: center;
+  border-radius: 4px;
+  padding: 14px 24px 15px;
+  width: 100%;
+  font: $button-font;
+  color: $white-color;
+  background-color: $accent-color;
+  transition: background-color 0.3s;
+
+  &:disabled {
+    background-color: rgba($accent-color, 0.5);
+  }
+
+  &:hover {
+    background-color: $accent-2-color;
+  }
+}

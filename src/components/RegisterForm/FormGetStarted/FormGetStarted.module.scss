@@ -1,0 +1,49 @@
+@import "../../../assets/styles/variables";
+
+.header {
+  margin-bottom: 34px;
+
+  @media (max-width: $large-mobile) {
+    margin-bottom: 30px;
+  }
+}
+
+.title {
+  margin-bottom: 10px;
+  font: $h1-font;
+
+  @media (max-width: $large-mobile) {
+    margin-bottom: 14px;
+    font: $h1-mobile-font;
+  }
+}
+
+.text {
+  font: $subtitle-1-font;
+
+  @media (max-width: $large-mobile) {
+    font: $subtitle-3-font;
+  }
+}
+
+.body {
+  margin-bottom: 32px;
+}
+
+.inputs {
+  display: grid;
+  margin-bottom: 24px;
+  gap: 24px;
+}
+
+.checkbox {
+  margin-bottom: 32px;
+}
+
+.body {
+  margin-bottom: 35px;
+}
+
+.captcha {
+  margin-bottom: 33px;
+}

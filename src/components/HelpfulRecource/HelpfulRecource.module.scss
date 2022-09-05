@@ -1,0 +1,30 @@
+@import "../../assets/styles/variables";
+
+.item {
+  display: flex;
+  flex-direction: column;
+}
+
+.img {
+  margin-bottom: 12px;
+  width: 34px;
+  height: 37px;
+  object-fit: contain;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
+
+.title {
+  font: $p-2-font;
+  color: $primary-3-color;
+
+  a {
+    text-decoration-line: underline;
+    transition: color 0.3s;
+
+    &:hover {
+      color: $accent-color;
+    }
+  }
+}
